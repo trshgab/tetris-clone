@@ -62,6 +62,3 @@ Algunas posibles mejoras que podrían implementarse:
 
 Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
----
-
-¡Disfruta jugando Tetris y mejorando tus habilidades de programación!
